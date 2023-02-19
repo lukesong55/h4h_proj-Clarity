@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "uname": "player1",
+            "pass": "$2b$12$TM895YJZQd1K1f4dJnzVKu74QcZLLB2UI7kuUHBoP44L1F2OI13gu",
+            "email": "e@etqwead",
+            "settings": {
+                "quote-ping": true
+            },
+            "reminders": []
+        },
+        {
+            "uname": "owjrparwjadw",
+            "pass": "$2b$12$aGhQvvQ5cC1BQ/XVnGxF.uqRk31UkhjHvmwTsPkwNp/EXoO/ak3U6",
+            "email": "wad@eee",
+        }
+    ]
+}
+            "settings": {
+                "quote-ping": true
+            },
+            "reminders": []
+        }
+    ]
+}
